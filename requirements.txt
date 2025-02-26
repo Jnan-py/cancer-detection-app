@@ -1,0 +1,6 @@
+streamlit
+ultralytics
+pandas
+numpy
+Pillow
+requests
